@@ -1,0 +1,5 @@
+Naive Bayes is a classification algorithm for binary (two-class) and multiclass classification problems. 
+It is called Naive Bayes or idiot Bayes because the calculations of the probabilities for each class are simplified to make their calculations tractable.
+Rather than attempting to calculate the probabilities of each attribute value, they are assumed to be conditionally independent given the class value.
+This is a very strong assumption that is most unlikely in real data, 
+i.e. that the attributes do not interact. Nevertheless, the approach performs surprisingly well on data where this assumption does not hold.
